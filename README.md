@@ -1,2 +1,2 @@
-# C30-Class
-Reset slingshot
+# p5.play-boilerplate
+Boiler plate for p5.play
